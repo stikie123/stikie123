@@ -15,7 +15,8 @@ Im an innovator and problem-solver, I'm constantly pushing my boundaries to expl
   
 ### Languages
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/stikie123)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/stikie123)
+[![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)](https://github.com/stikie123)
+[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/stikie123)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/stikie123)
 
 ### Technologies & Frameworks

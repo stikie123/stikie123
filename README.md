@@ -10,7 +10,7 @@ Im an innovator and problem-solver, I'm constantly pushing my boundaries to expl
    </a>
   </p>
   <p align="center">
-  Checkout my blog at <a href="stickteck.blogspot.com">Stick Teck</a><br>
+  Checkout my blog at <a href="https://stickteck.blogspot.com">Stick Teck</a><br>
   Open to collaborating on interesting and innovative projects.<br>
   Contact me at <a href="stianbekker@gmail.com">stianbekker@gmail.com</a> if interested in working together.
 </p>

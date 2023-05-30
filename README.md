@@ -1,11 +1,13 @@
 <h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
-
 <p align="center">
-My name is Stiaan<br> 
-Im an innovator and problem-solver, I'm constantly pushing my boundaries to explore new ideas and technologies. Love learning new programming languages and finding solutions to complex problems<br>
    <a href="https://www.linkedin.com/in/stiaan-bekker">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+    </a><br>
+My name is Stiaan<br> 
+Im an innovator and problem-solver, I'm constantly pushing my boundaries to explore new ideas and technologies. Love learning new programming languages and finding solutions to complex problems<br>
+   <a href="https://www.buymeacoffee.com/stikie123">
+   <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+   </a>
   </p>
   <p align="center">
   Checkout my blog at <a href="stickteck.blogspot.com">Stick Teck</a><br>
